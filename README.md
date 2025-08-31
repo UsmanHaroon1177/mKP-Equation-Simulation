@@ -1,8 +1,7 @@
 # 📘 Differential Equations Project – Modified Kadomtsev-Petviashvili (mKP) Equation
 
 **Course:** MT-1006 Differential Equations  
-**Made By:** Usman Haroon (22i-1177)  
-
+**Made By:** Usman Haroon 
 ---
 
 ## 📑 Table of Contents
