@@ -1,8 +1,6 @@
 # 📘 Differential Equations Project – Modified Kadomtsev-Petviashvili (mKP) Equation
 
 **Course:** MT-1006 Differential Equations  
-**Section:** CS(B)  
-**Semester Project Report**  
 **Made By:** Usman Haroon (22i-1177)  
 
 ---
